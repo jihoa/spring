@@ -3,4 +3,5 @@
     <fullyQualifiedTypeName name="spring.di.entity.Exam"/>
     <fullyQualifiedTypeName name="spring.di.entity.NewlecExam"/>
     <fullyQualifiedTypeName name="spring.di.ui.GridExamConsole"/>
+    <fullyQualifiedTypeName name="spring.di.ui.ExamConsole"/>
 </qualifiedTypeNameHistroy>
